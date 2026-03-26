@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "End of the World",
+  "base_artist": "FORGOTTENAGE",
+  "createdAt": "2026-03-26T15:17:44.783577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Anika",
+      "has_synced": true,
+      "path": "select/01_End_of_the_World_Anika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Asia",
+      "has_synced": false,
+      "path": "select/02_End_of_the_World_Asia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Annisokay",
+      "has_synced": true,
+      "path": "select/03_End_of_the_World_Annisokay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "End Of The World",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/04_End_Of_The_World_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "bludnymph",
+      "has_synced": true,
+      "path": "select/05_End_of_the_World_bludnymph.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "FORGOTTENAGE",
+      "has_synced": true,
+      "path": "select/06_End_of_the_World_FORGOTTENAGE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Shaggy",
+      "has_synced": true,
+      "path": "select/07_End_of_the_World_Shaggy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/08_End_of_the_World_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "End Of The World",
+      "artist": "NoMeansNo",
+      "has_synced": true,
+      "path": "select/09_End_Of_The_World_NoMeansNo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Girls",
+      "has_synced": true,
+      "path": "select/10_End_of_the_World_Girls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Monaco",
+      "has_synced": true,
+      "path": "select/11_End_of_the_World_Monaco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End Of The World",
+      "artist": "Zeroic",
+      "has_synced": true,
+      "path": "select/12_End_Of_The_World_Zeroic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Jiubel",
+      "has_synced": true,
+      "path": "select/13_End_of_the_World_Jiubel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Moyra",
+      "has_synced": false,
+      "path": "select/14_End_of_the_World_Moyra.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Dio",
+      "has_synced": true,
+      "path": "select/15_End_of_the_World_Dio.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "End of the world",
+      "artist": "Cure",
+      "has_synced": true,
+      "path": "select/16_End_of_the_world_Cure.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Blackfield",
+      "has_synced": true,
+      "path": "select/17_End_of_the_World_Blackfield.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Cold",
+      "has_synced": true,
+      "path": "select/18_End_of_the_World_Cold.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "End of the World",
+      "artist": "Carpathian",
+      "has_synced": true,
+      "path": "select/19_End_of_the_World_Carpathian.lrc"
+    }
+  ]
+}
